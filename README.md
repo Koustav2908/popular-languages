@@ -69,7 +69,7 @@ Exploratory steps include:
     <img src="images/popular_languages_smooth.png" alt="popular languages (smooth)" width="800"/>
 </p>
 
--   We can clearly see the chart now without all the noise.
+-   We can clearly see the chart now without all the extra noise and can clearly vizualise it better.
 
 ---
 
